@@ -1,0 +1,13 @@
+#txt {
+    color: grey;
+    margin-left: 20px;
+}
+
+main {
+    margin-left: 100px;
+    max-width: 420px;
+}
+
+#main_txt {
+    text-align: center;
+}
